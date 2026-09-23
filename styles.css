@@ -1,0 +1,33 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+    background-color: #e7f1ff;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 26px;
+    color: #44CCAC;
+}
+
+h2 {
+    font-size: 21px;
+    color: #6060DD;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#main-content {
+    margin-top: 50px;
+}
+
+#img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 420px;
+}
